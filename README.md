@@ -1,2 +1,2 @@
 # Coding_space
-Just a place to flush out some coding 
+This repository's primary purpose is to become a space to flush out my gaming code and design ideas.
